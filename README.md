@@ -21,9 +21,9 @@
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sonashukoor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sonashukoor&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonashukoor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 🌐 Reach out to me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonafshukoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonafshukoor@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonafshukoor) [linkedin.com/in/sonafshukoor](https://linkedin.com/in/sonafshukoor)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonafshukoor@gmail.com) [sonafshukoor@gmail.com](mailto:sonafshukoor@gmail.com)
 
 
