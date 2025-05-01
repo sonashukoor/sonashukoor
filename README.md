@@ -1,18 +1,18 @@
 ## Hey there, I'm Sona 👋
 
-🎓 CSE Undergrad (Honours in Machine Learning) <br>
+🎓 CSE Undergrad (Honours in Machine Learning) <br/>
 
-🧠 Curious about how machines can mimic (or understand?) human chaos <br>  
+🧠 Curious about how machines can mimic (or understand?) human chaos <br/>  
 
-📊 Currently diving into predictive analytics, cognition & behaviour modelling <br>  
+📊 Currently diving into predictive analytics, cognition & behaviour modelling <br/>  
 
-🎨 Also love to blend my creative side with tech <br>
+🎨 Also love to blend my creative side with tech <br/>
 
-🤝 Open to collaborations on AI, ML and creative projects <br>
+🤝 Open to collaborations on AI, ML and creative projects <br/>
 
-💬 Always down to talk about anything and everything <br>
+💬 Always down to talk about anything and everything <br/>
 
-> Can an algorithm be creative if its only sense of art is what happened in the past? - Hannah Fry <br>
+> Can an algorithm be creative if its only sense of art is what happened in the past? - Hannah Fry <br/>
 > (but then where do humans take inspiration from anyway?)
 
 #### 💻 Tech Stack:
@@ -20,10 +20,10 @@
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sonashukoor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sonashukoor&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonashukoor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 #### 🌐 Reach out to me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonafshukoor) [linkedin.com/in/sonafshukoor](https://linkedin.com/in/sonafshukoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonafshukoor) [linkedin.com/in/sonafshukoor](https://linkedin.com/in/sonafshukoor)<br/>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonafshukoor@gmail.com) [sonafshukoor@gmail.com](mailto:sonafshukoor@gmail.com)
 
 
